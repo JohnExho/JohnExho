@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I’m JohnExho 👋
 
-<!--
-**JohnExho/JohnExho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🎓 Student passionate about **Web Development** and **Game Development**
+- 🔭 Currently diving deep into the **Laravel Framework**
+- 🎭 When I’m not coding, you’ll probably find me cosplaying as my favorite characters
+- 🚀 Always eager to learn, build, and level up my skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Web Development:** HTML, CSS, JavaScript, PHP
+- **Frameworks:** Laravel (current focus)
+- **Game Development:** (still collecting XP here!)
+
+## 🌱 Projects
+Looking forward to showcasing some awesome projects soon—stay tuned!
+
+## 📈 GitHub Stats
+![JohnExho's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnExho&show_icons=true&theme=radical)
+
+---
+
+_“Coding and cosplaying: because why choose just one adventure?”_
